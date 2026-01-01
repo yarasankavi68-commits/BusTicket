@@ -36,3 +36,8 @@ The JDK is essential for compiling and running Java programs. It includes the Ja
 3. GitHub
 
 GitHub is used for version control and project storage. It allows developers to store their project code online, track changes, and share the project with others. Using GitHub improves collaboration and helps maintain different versions of the project safely.
+
+
+*OUTPUT*
+
+<img width="1350" height="730" alt="Image" src="https://github.com/user-attachments/assets/1c6ccfb7-37f1-4852-be45-231a3ed1fe58" />
